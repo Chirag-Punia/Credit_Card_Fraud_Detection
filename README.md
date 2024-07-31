@@ -1,4 +1,4 @@
-# CreditCard_FraudDetection
+# Credit_Card_Fraud_Detection
 
 ## Utilized Tools & Modules
 
